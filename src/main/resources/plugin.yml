@@ -1,0 +1,4 @@
+name: MobLimiter
+version: '1.0.0'
+main: net.foulest.moblimiter.MobLimiter
+author: Foulest
